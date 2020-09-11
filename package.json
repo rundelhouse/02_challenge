@@ -1,0 +1,21 @@
+{
+  "name": "02_challenge",
+  "version": "1.0.0",
+  "description": "Challenge Innovacion y desarrollo",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha './test/*.test.js'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "innovacion",
+    "desarrollo",
+    "insercor"
+  ],
+  "author": "InsercorLabs",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.3"
+  }
+}
